@@ -1,3 +1,4 @@
 .vscode
-display_secret/build
+display_secret/build/*
 input_secret/build
+!display_secret/build/displaySecret.exe
