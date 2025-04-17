@@ -7,9 +7,9 @@ The input text is unicode utf8 encoded
 
 The maximum amount of code points that can be entered is 10000
 
-By clicking on the Download button on the gui app the text is embedded into the binary, the binary is saved in the downloads folder and signed with a certificate.
+By clicking on the Download button on the gui app the text is embedded into the binary, the binary is saved in the downloads folder and signed with a certificate using windows SignTool
 
-### prerequisits: [FLTK](https://www.fltk.org/) e
+### prerequisits: [FLTK](https://www.fltk.org/) 
 
 ### how to build project
 ```
